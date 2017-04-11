@@ -6,7 +6,7 @@ http://yawp.io/guides/tutorials/todo-list-app
 
 ## Steps
 
-### Use archetype 
+### Use maven archetype to scaffold API
 
 mvn archetype:generate -DarchetypeGroupId=io.yawp -DarchetypeArtifactId=yawp -DarchetypeVersion=LATEST -DgroupId=tungsten -DartifactId=tungsten -Dversion=1.0-SNAPSHO
 
